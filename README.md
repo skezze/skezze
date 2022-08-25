@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-
 <a href="https://github-readme-stats.vercel.app/api?username=skezze&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=skezze&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -15,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MsSQL)
 
 
 ### Technologies
@@ -28,5 +24,5 @@
 
 
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skezze&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skezze&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="skezze" /></p>
 
