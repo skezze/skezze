@@ -1,16 +1,32 @@
-<h1 align="center">Hi, I'm Yevhen Kyniev</h1>
-<h3 align="center">Backend dotnet developer</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-</p>
-<div align="left">
-<a href="https://t.me/cherrypix" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-</div>
+# Hi there! 👋
+
+I'm a .NET Developer with experience in web development and cloud technologies. Currently, I'm pursuing a Master's degree at the National University 'Odesa Polytechnic' while working on various projects using .NET, Angular, and other technologies.
+
+## 🔧 Technical Skills
+- ASP.NET, Entity Framework
+- Angular, RxJS
+- SQL Server
+- SignalR
+- GitHub Actions, CI/CD
+- Nuxt.js, Tailwind CSS
+
+## 🎓 Education
+- Master's degree, National University 'Odesa Polytechnic' (2024 - Present)
+
+## 💻 Projects
+- **.NET Chat Application**: Developed a real-time messaging app using SignalR.
+- **Sound-Angular**: Deployed an fullstack app to Azure Web Apps using GitHub Actions.
+
+## 📫 Contact
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherrypix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-kyniev)
+
+### 📑 Languages
+
+1. English (B2) - Upper-Intermediate;
+2. Bulgarian (B2) - Upper-Intermediate;
+3. Ukrainian - Native;
+4. Russian - Native.
 
 <div align="center">  
 <picture>
