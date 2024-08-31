@@ -4,11 +4,16 @@ I'm a .NET Developer with experience in web development and cloud technologies. 
 
 ## 🔧 Technical Skills
 - ASP.NET, Entity Framework
-- Angular, RxJS
-- SQL Server
-- SignalR
-- GitHub Actions, CI/CD
+- Angular, RxJS, Express
+- SQL Server, Postgresql
+- SignalR, Web Sockets
+- GitHub Actions, CI/CD, Kubernetes, Apache Kafka, RabbitMq, Service Bus
 - Nuxt.js, Tailwind CSS
+- Ruby on Rails
+- TensorFlow, Keras
+- Selenium
+- Unix based systems
+- AWS, Azure services, blob storages
 
 ## 🎓 Education
 - Master's degree, National University 'Odesa Polytechnic' (2024 - Present)
