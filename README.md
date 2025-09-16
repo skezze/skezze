@@ -23,7 +23,7 @@ I'm a .NET Developer with experience in web development and cloud technologies. 
 - **Sound-Angular**: Deployed an fullstack app to Azure Web Apps using GitHub Actions.
 
 ## 📫 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherrypix)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skezze)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-kyniev)
 
 ### 📑 Languages
