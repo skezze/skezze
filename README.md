@@ -1,26 +1,25 @@
 # Hi there! 👋
 
-I'm a .NET Developer with experience in web development and cloud technologies. Currently, I'm pursuing a Master's degree at the National University 'Odesa Polytechnic' while working on various projects using .NET, Angular, and other technologies.
+I'm a .NET Developer with experience in web development and cloud technologies. Currently, I'm pursuing a Master's degree at the National University 'Odesa Polytechnic' while working on various projects using .NET, Vue, and other technologies.
 
 ## 🔧 Technical Skills
 - ASP.NET, Entity Framework
-- Angular, RxJS, Express
 - SQL Server, Postgresql
 - SignalR, Web Sockets
 - GitHub Actions, CI/CD, Kubernetes, Apache Kafka, RabbitMq, Service Bus
-- Nuxt.js, Tailwind CSS
-- Ruby on Rails
-- TensorFlow, Keras
-- Selenium
+- JS/Vue 3
+- Puppeteer
 - Unix based systems
 - AWS, Azure services, blob storages
 
 ## 🎓 Education
-- Master's degree, National University 'Odesa Polytechnic' (2024 - Present)
+- Master's degree, National University 'Odesa Polytechnic' (2024 - 2025)
 
 ## 💻 Projects
 - **.NET Chat Application**: Developed a real-time messaging app using SignalR.
 - **Sound-Angular**: Deployed an fullstack app to Azure Web Apps using GitHub Actions.
+- Commercial GRPC crmbased backend
+- Commercial Chrome Extension
 
 ## 📫 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skezze)
